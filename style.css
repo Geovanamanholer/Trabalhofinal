@@ -1,8 +1,11 @@
-body{
+body{ 
     background-color: paleturquoise;
 }
 h1{
     text-align: center; color: blue;
+}
+h2{
+    text-align: center; color: khaki;
 }
 p{
     text-align: center;color: khaki;
